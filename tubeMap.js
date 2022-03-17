@@ -54,8 +54,3 @@ console.log(planTrip('six', '8th', 'L', '6th'));
 
 // backlog: prompt user for startStation/endStation
 // input validation
-
-
-git remote add origin https://github.com/pilauria/small_programs.git
-git branch -M main
-git push -u origin main
